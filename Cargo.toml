@@ -5,7 +5,7 @@ authors = ["Dakmon.Com <info@dakmon.com>"]
 edition = "2021"
 build= "build.rs"
 description = "Programa de soporte remoto."
-default-run = "Dakmon - Soporte"
+default-run = "Soporte Dakmon"
 
 [lib]
 name = "librustdesk"
