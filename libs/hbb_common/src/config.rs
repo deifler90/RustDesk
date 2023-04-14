@@ -140,7 +140,7 @@ pub enum NetworkType {
     Direct,
     ProxySocks,
 }
-
+ 
 #[derive(Debug, Default, Serialize, Deserialize, Clone, PartialEq)]
 pub struct Config {
     #[serde(default)]
